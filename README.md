@@ -1,7 +1,7 @@
 Problema da Produção de Papel
 ================================
 
-Atividade 1 de MC859 - Projeto em Teoria da Computação.
+Atividade 1 de MO824 - Tópicos em Otimização Combinatória.
 
 **Grupo:**
   - Eduardo Barros Innarelli (170161)
